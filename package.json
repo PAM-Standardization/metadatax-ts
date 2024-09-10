@@ -1,5 +1,5 @@
 {
-  "name": "metadatax",
+  "name": "@ElodieENSTA/metadatax-react",
   "version": "1.0.0",
   "description": " Metadatax server usage  in Typescript",
   "main": "dist/cjs/index.js",
@@ -10,7 +10,10 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "ISC",
