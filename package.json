@@ -1,6 +1,6 @@
 {
   "name": "@PAM-Standardization/metadatax-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " Metadatax server usage  in Typescript",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
