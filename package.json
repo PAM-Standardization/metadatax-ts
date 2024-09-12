@@ -10,7 +10,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c",
-    "rollup-dev": "rollup -c -w",
+    "dev": "rollup -c -w",
     "test": "exit 0"
   },
   "publishConfig": {
