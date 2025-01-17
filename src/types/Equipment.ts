@@ -43,6 +43,11 @@ export type Recorder = {
   id: number;
 
   /**
+   * Name of the recorder
+   */
+  name: string;
+
+  /**
    * Model of the recorder
    */
   model: RecorderModel;
